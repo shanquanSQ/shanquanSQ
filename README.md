@@ -4,8 +4,6 @@
 
 An architect in my previous profession, I decided to level up my problem-solving capabilities and graduated from Rocket Academy's Software Engineering Bootcamp in 2023! <br/> I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
 
-### [Portfolio Site](www.shanquan.netlify.com)
-
 #
 
 ### Skills
