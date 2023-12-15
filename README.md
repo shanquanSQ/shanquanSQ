@@ -65,15 +65,6 @@ Email</a>
 
 #
 
-<details>
-<summary>SWE-Unrelated Fun Facts!</summary>
-<br/>
-I run a couple of youtube channels - from art channels to channels on Japanese culture.<br/>
-My best performing video hit 200k in a month!<br/>
-I probably should try to revive that channel..
-
-</details>
-
 <!-- <a href ="https://www.linkedin.com/in/tshanquan/">
 <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
