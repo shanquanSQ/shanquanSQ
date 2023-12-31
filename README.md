@@ -2,7 +2,6 @@
 
 **`Full-stack Engineer with a passion for crafting digital experiences.`**
 
-<<<<<<< HEAD
 An architect in my previous profession, I decided to level up my problem-solving capabilities and graduated from Rocket Academy's Software Engineering Bootcamp in 2023!
 <br/>
 I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
@@ -11,9 +10,6 @@ I bring human-centered design sensibilities and a craftsman's touch to my projec
 <a href="shanquan.netlify.com">
 Dev Website</a>
 <br/>
-=======
-An architect in my previous profession, I decided to level up my problem-solving capabilities <br/> and graduated from Rocket Academy's Software Engineering Bootcamp in 2023! <br/> I bring human-centered design sensibilities and a craftsman's touch to my projects, <br/> and look to solve real-life problems that users face.
->>>>>>> c949bd25b8456f6b98b16f0e8d4577f515e21f2e
 
 #
 
