@@ -2,7 +2,14 @@
 
 **`Full-stack Engineer with a passion for crafting digital experiences.`**
 
-An architect in my previous profession, I decided to level up my problem-solving capabilities and graduated from Rocket Academy's Software Engineering Bootcamp in 2023! <br/> I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
+An architect in my previous profession, I decided to level up my problem-solving capabilities and graduated from Rocket Academy's Software Engineering Bootcamp in 2023!
+<br/>
+I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
+<br/>
+
+<a href="shanquan.netlify.com">
+Dev Website</a>
+<br/>
 
 #
 
@@ -64,24 +71,3 @@ Email</a>
 <br/>
 
 #
-
-<!-- <a href ="https://www.linkedin.com/in/tshanquan/">
-<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-
-<a href="mailto:thiashanquan93@gmail.com">
-<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/dev-portfolio-sq.appspot.com/o/icons%2Femail-1.svg?alt=media&token=c580ca18-6cda-44ab-adda-7aedeac6e220"/></a> -->
-
-<!--
-**shanquanSQ/shanquanSQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
