@@ -2,13 +2,15 @@
 
 **`Full-stack Engineer with a passion for crafting digital experiences.`**
 
-An architect in my previous profession, I decided to level up my problem-solving capabilities and graduated from Rocket Academy's Software Engineering Bootcamp in 2023!
+An architect in my previous profession, I decided to level up my problem-solving capabilities<br/>
+and graduated from Rocket Academy's Software Engineering Bootcamp in 2023!
 <br/>
 I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
 <br/>
 
-<a href="shanquan.netlify.com">
-Dev Website</a>
+<a href ="https://www.shanquan.space">
+Dev Portfolio</a>
+
 <br/>
 
 #
@@ -18,6 +20,8 @@ Dev Website</a>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
 <img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 
@@ -43,7 +47,7 @@ Javascript, Python
 
 `Frontend`
 <br/>
-React, TailwindCSS, Framer Motion
+React, Flutter, TailwindCSS, Framer Motion
 
 `Backend`
 <br/>
@@ -51,7 +55,7 @@ ExpressJS, PostgreSQL, Sequelize
 
 `Web3`
 <br/>
-Web3.js, Ethers.js
+Web3.js, Ethers.js, Alchemy
 
 `Others`
 <br/>
