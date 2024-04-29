@@ -50,7 +50,7 @@ Javascript, Python
 
 `Frontend`
 <br/>
-React, NextJS, Flutter, TailwindCSS, Framer Motion
+React, NextJS, React Native, Flutter, TailwindCSS, Framer Motion
 
 `Backend`
 <br/>
