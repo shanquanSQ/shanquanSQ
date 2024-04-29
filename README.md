@@ -2,9 +2,6 @@
 
 **`Full-stack Engineer with a passion for crafting digital experiences.`**
 
-An architect in my previous profession, I decided to level up my problem-solving capabilities<br/>
-and graduated from Rocket Academy's Software Engineering Bootcamp in 2023!
-<br/>
 I bring human-centered design sensibilities and a craftsman's touch to my projects, and look to solve real-life problems that users face.
 <br/>
 
@@ -21,9 +18,13 @@ Dev Portfolio</a>
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"/>
+
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
-<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+
+<img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"/>
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
@@ -39,6 +40,8 @@ Dev Portfolio</a>
 
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
+<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
+
 <br/><br/>
 
 `Languages`
@@ -47,11 +50,11 @@ Javascript, Python
 
 `Frontend`
 <br/>
-React, Flutter, TailwindCSS, Framer Motion
+React, NextJS, Flutter, TailwindCSS, Framer Motion
 
 `Backend`
 <br/>
-ExpressJS, PostgreSQL, Sequelize
+ExpressJS, PostgreSQL, Supabase, Sequelize
 
 `Web3`
 <br/>
