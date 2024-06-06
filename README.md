@@ -72,7 +72,7 @@ Firebase, Axios, JWT, Auth0, Socket.io
 <a href ="https://www.linkedin.com/in/tshanquan/">
 LinkedIn</a>
 
-<a href="mailto:thiashanquan93@gmail.com">
+<a href="mailto:shanquanthia@gmail.com">
 Email</a>
 
 <br/>
